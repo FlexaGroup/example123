@@ -38,12 +38,12 @@ params:
   down: "#D70040"
   systems:
     - name: Gateway
-      category: North Coast
+      category: Uncategorized
     - name: Backup Gateway
-      category: North Coast
+      category: Uncategorized
     - name: Website
       description: The web frontend for the application.
-      category: North Coast
+      category: Uncategorized
       link: https://example.com/
     - name: API
       description: The guts of the application.
@@ -51,13 +51,13 @@ params:
     - name: Media Proxy
       description: This is the service responsible for serving images, audio, and
         video. It is reliant on our CDN.
-      category: North Coast
-    - category: North Coast
+      category: Uncategorized
+    - category: Uncategorized
       name: Careers System
     - name: Blogs System
-      category: North Coast
+      category: Uncategorized
     - name: Payments System
-      category: North Coast
+      category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#3d96d9"
   enableLastMod: true
@@ -79,10 +79,10 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: ""
+    - name: Uncategorized
       description: The main servers are located here.
-      closed: false
-      untitled: false
+      closed: true
+      untitled: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true

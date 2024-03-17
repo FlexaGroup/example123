@@ -81,7 +81,7 @@ params:
   categories:
     - name: North Coast
       description: The main servers are located here.
-      closed: true
+      closed: false
       untitled: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.

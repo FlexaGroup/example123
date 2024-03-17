@@ -42,15 +42,15 @@ params:
     - name: Backup Gateway
       category: Flexa Services
     - name: Website
-      description: The web frontend for the application.
+      description: ""
       category: Flexa Services
       link: https://example.com/
+      partial: https://flexagroup.co.uk
     - name: API
-      description: The guts of the application.
+      description: ""
       category: Flexa Services
     - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and
-        video. It is reliant on our CDN.
+      description: ""
       category: Flexa Services
     - category: Flexa Services
       name: Careers System
@@ -81,8 +81,8 @@ params:
   categories:
     - name: Flexa Services
       description: The main servers are located here.
-      closed: true
-      untitled: false
+      closed: false
+      untitled: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true

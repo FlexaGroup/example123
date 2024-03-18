@@ -12,6 +12,7 @@ affected:
   - TM API
   - TM Proxy Services
   - TM Backup Gateway
+  - Payment System
 severity: notice
 ---
 *﻿Creating* - We are currently creating tech mode whilst we speaking.

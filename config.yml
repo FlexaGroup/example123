@@ -36,28 +36,7 @@ params:
   disableDarkMode: false
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#D70040"
-  systems:
-    - name: Gateway
-      category: Flexa Services
-    - name: Backup Gateway
-      category: Flexa Services
-    - name: Website
-      description: ""
-      category: Flexa Services
-      link: https://example.com/
-      partial: https://flexagroup.co.uk
-    - name: API
-      description: ""
-      category: Flexa Services
-    - name: Media Proxy
-      description: ""
-      category: Flexa Services
-    - category: Flexa Services
-      name: Careers System
-    - name: Blogs System
-      category: Flexa Services
-    - name: Payments System
-      category: Flexa Services
+  systems: []
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#3d96d9"
   enableLastMod: true
@@ -78,11 +57,7 @@ params:
   incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
-  categories:
-    - name: Flexa Services
-      description: The main servers are located here.
-      closed: false
-      untitled: false
+  categories: []
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true

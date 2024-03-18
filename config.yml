@@ -45,14 +45,14 @@ params:
       category: Flexa Free Tier
     - name: Proxy Services
       category: Flexa Free Tier
-    - name: Gateway
+    - name: TM Gateway
       category: Flexa Tech Mode
-    - name: Flexa Tech Mode
-      category: Backup Gateway
+    - name: TM Backup Gateway
+      category: Flexa Tech Mode
     - category: Flexa Tech Mode
-      name: API
+      name: TM API
     - category: Flexa Tech Mode
-      name: Proxy Services
+      name: TM Proxy Services
     - name: Frontend
       category: Flexa Group Site
     - name: Backend

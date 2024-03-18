@@ -9,7 +9,7 @@ pin: false
 resolvedWhen: 2024-03-18T21:40:56.606Z
 affected:
   - TM Gateway
-  - TM Api
+  - TM API
   - TM Proxy Services
   - TM Backup Gateway
 severity: notice

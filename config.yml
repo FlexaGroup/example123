@@ -36,7 +36,37 @@ params:
   disableDarkMode: false
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#D70040"
-  systems: []
+  systems:
+    - name: Gateway
+      category: Flexa Free Tier
+    - name: Backup Gateway
+      category: Flexa Free Tier
+    - name: API
+      category: Flexa Free Tier
+    - name: Proxy Services
+      category: Flexa Free Tier
+    - name: Gateway
+      category: Flexa Tech Mode
+    - name: Flexa Tech Mode
+      category: Backup Gateway
+    - category: Flexa Tech Mode
+      name: API
+    - category: Flexa Tech Mode
+      name: Proxy Services
+    - name: Frontend
+      category: Flexa Group Site
+    - name: Backend
+      category: Flexa Group Site
+    - name: Careers System
+      category: Flexa Group Site
+    - category: Flexa Group Site
+      name: Blogs System
+    - category: Flexa Group Site
+      name: Payment System
+    - category: Support System
+      name: Chat Support
+    - name: Call Support
+      category: Support System
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#3d96d9"
   enableLastMod: true
@@ -57,7 +87,12 @@ params:
   incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
-  categories: []
+  categories:
+    - name: Flexa Free Tier
+      untitled: false
+    - name: Flexa Tech Mode
+    - name: Flexa Group Site
+    - name: Support System
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true

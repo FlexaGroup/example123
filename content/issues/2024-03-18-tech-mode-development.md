@@ -4,8 +4,8 @@ title: Tech Mode Development
 date: 2024-03-18T21:40:56.580Z
 resolved: false
 draft: false
-informational: true
-pin: false
+informational: false
+pin: true
 resolvedWhen: 2024-03-18T21:40:56.606Z
 affected:
   - TM Gateway

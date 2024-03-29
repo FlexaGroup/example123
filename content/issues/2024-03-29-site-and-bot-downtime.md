@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Site and Bot downtime
-date: 2024-03-29T01:52:31.921Z
+date: 2024-03-29T01:55:47.236Z
 resolved: false
 draft: false
 informational: false
-pin: false
-resolvedWhen: ""
+pin: true
+resolvedWhen: 2024-03-29T01:55:47.263Z
 affected:
   - Gateway
   - Backup Gateway

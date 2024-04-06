@@ -5,7 +5,7 @@ date: 2024-04-06T22:48:31.729Z
 resolved: false
 draft: false
 informational: false
-pin: false
+pin: true
 resolvedWhen: 2024-04-06T22:48:31.760Z
 affected:
   - Blogs System

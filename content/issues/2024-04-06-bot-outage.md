@@ -2,10 +2,10 @@
 section: issue
 title: Bot Outage
 date: 2024-04-06T00:06:19.554Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-pin: true
+pin: false
 resolvedWhen: 2024-04-06T00:06:19.597Z
 affected:
   - API

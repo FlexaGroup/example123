@@ -12,3 +12,7 @@ affected:
 severity: down
 ---
 *Investigating* - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.
+
+*Root Cause* - We have found the root cause to this issue and we are working towards getting the blogs page back up and running.
+
+*Monitoring* - We have pushed a fix regarding the Blogs Page and are monitoring it to make sure it stays fixed.
